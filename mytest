@@ -18,3 +18,7 @@ def subtraction(a, b):
 def multiplication(a, b):
 	product = a * b
 	return product
+
+def blabla
+	blahfunction = a + b/c
+	return blahfunction
